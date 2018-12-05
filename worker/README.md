@@ -1,0 +1,1 @@
+![alt text](https://horiaursu.com/img/schemas/fibonacci/p8.png?raw=true)
